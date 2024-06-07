@@ -14,7 +14,7 @@ body {
 
 #task-container {
   text-align: left;
-  margin-left: -1000px;
+  margin-left: -500px;
 }
 
 #task-input, #priority {
